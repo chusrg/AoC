@@ -1,6 +1,5 @@
 package year2023;
 
-import java.text.SimpleDateFormat;
 import java.util.*;
 
 //       Task: https://adventofcode.com/2023/day/21
