@@ -1,6 +1,5 @@
 # Answer: 175
 import re
-import string
 
 input_data = "input"
 
